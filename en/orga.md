@@ -1,4 +1,4 @@
-# Words/Machines #4
+# Words/Machines #5
 
 <br>
 
@@ -10,21 +10,15 @@
 
 ### Program committee
 - Liana Ermakova, HCTI, UBO
-- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
+- Michele Bolduc, HCTI, UBO
 - Caroline Comacle, translator, UBO
-- Radia Hannachi, HCTI, UBS
+- Radia Hanachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
-- Michael Rinn, HCTI, UBO
 
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
-- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
+- Michele Bolduc, HCTI, UBO
 - Caroline Comacle, translator, UBO
-- Radia Hannachi, HCTI, UBS
-- Mohamed Saki, HCTI, UBO
-- Michael Rinn, HCTI, UBO
-- Emmanuelle Bourge, HCTI, UBO
-- Orlane Puchalski, Masters degree in Translation and Technical Writing student, UBO
-- Léa Talec-Bernard, Masters degree in Translation and Technical Writing student, UBO
+- Radia Hanachi, HCTI, UBS
