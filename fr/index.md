@@ -13,11 +13,11 @@
 
 **Journée d’étude : 17 mars 2023**
 
-**Thématiques** : pré-édition, langage contrôlé, Simplified Technical English, internationalisation et localisation, rédaction technique, visualisation
+**Thématiques** : Gestion de la terminologie, IA et terminologie, liaison entre entités, recherche de mots-clés et de phrases-clés, rédaction technique, contextualisation et explication de la terminologie, visualisation, simplification lexicale, mesures de la difficulté des termes
 
-## Venue
+## Lieu et accès
 
-L'atelier se tiendra à l'Université de Bretagne Occidentale, Faculté des Arts :
+L'atelier se tiendra à [l'Université de Bretagne Occidentale, Faculté des Arts](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines) :
 
 **BREST Faculté Victor Segalen**
 
