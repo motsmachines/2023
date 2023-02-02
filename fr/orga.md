@@ -1,8 +1,8 @@
-# Mots/Machines #4
+# Mots/Machines #5
 
 <br>
 
-[Accueil](https://motsmachines.github.io/2022/fr) | [Participations](https://motsmachines.github.io/2022/fr/cfp) | [Programme](https://motsmachines.github.io/2022/fr/program) | [Organisation](https://motsmachines.github.io/2022/fr/orga) | [S'inscrire](https://motsmachines.github.io/2022/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2022/en/orga)
+[Accueil](https://motsmachines.github.io/2023/fr) | [Participations](https://motsmachines.github.io/2023/fr/cfp) | [Programme](https://motsmachines.github.io/2023/fr/program) | [Organisation](https://motsmachines.github.io/2023/fr/orga) | [S'inscrire](https://motsmachines.github.io/2023/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2023/en/orga)
 
 <br>
 
@@ -10,21 +10,22 @@
 
 ### Comité de programme
 - Liana Ermakova, HCTI, UBO
-- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
+- Michele Bolduc, HCTI, UBO
 - Caroline Comacle, traductrice, UBO
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
-- Michael Rinn, HCTI, UBO
 
 ### Comité d'organisation
 - Liana Ermakova, HCTI, UBO
-- Joanna Thornborrow, HCTI, UBO
 - Élise Mathurin, HCTI, UBO
+- Michele Bolduc, HCTI, UBO
 - Caroline Comacle, traductrice, UBO
 - Radia Hannachi, HCTI, UBS
 - Mohamed Saki, HCTI, UBO
-- Michael Rinn, HCTI, UBO
 - Emmanuelle Bourge, HCTI, UBO
-- Orlane Puchalski, étudiante du Master Rédacteur/Traducteur, UBO
-- Léa Talec-Bernard, étudiante du Master Rédacteur/Traducteur, UBO
+
+### Conférenciers invités
+- Hosein Azarbonyad (Elsevier - Amsterdam, senior machine learning scientist - Topic Pages)
+- Florian Boudin (MCF, Université de Nantes / UMR 6004 Laboratoire des Sciences du Numérique de Nantes)
+- Nicholas Journet (MCF, LaBRI, Université de Bordeaux) 
