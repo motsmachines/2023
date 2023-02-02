@@ -6,11 +6,9 @@
 
 <br> 
 
-![Affiche](../Affiche%20journe%CC%81e%20d'e%CC%81tude%2023-2.png)
+Poster coming soon...
 
 ## Terminology
-
-[PDF version CFP](../CFP Mots Machines-2022.pdf)
 
 **Workshop : 17 March 2023**
 
