@@ -8,7 +8,7 @@
 
 ## Call for Papers: Terminology
 
-[PDF version CFP](../CFP Mots Machines-2022.pdf)
+Coming soon...
 
 ### Important Dates
 
