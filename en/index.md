@@ -1,4 +1,4 @@
-# Words/Machines #4
+# Words/Machines #5
 
 <br>
 
@@ -8,16 +8,16 @@
 
 ![Affiche](../Affiche%20journe%CC%81e%20d'e%CC%81tude%2023-2.png)
 
-## Text simplification and adaptation
+## Terminology
 
 [PDF version CFP](../CFP Mots Machines-2022.pdf)
 
-**Workshop : 25 March 2022**
+**Workshop : 17 March 2023**
 
-**List of topics** : pre-editing, controlled language, Simplified Technical English, internationalization and localization, technical writing, visualization
+**List of topics** : Terminology management, AI and terminology, entity Linking, keyword and keyphrase retrieval, technical writing, terminology contextualization and explanation, visualization , lexical simplification, metrics of term difficulty
 
 ## Venue
-The workshop will be held at the University of Western Brittany, Faculty of Humanities, room C219:
+The workshop will be held at the [University of Western Brittany, Faculty of Humanities](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines):
 
 BREST Faculté Victor Segalen
 
