@@ -80,7 +80,7 @@ The workshop will be held at the [University of Western Brittany, Faculty of Art
 
 Brest Cedex 3, France
 
-**Mots-Machines will also propose ONLINE participation.[/red]**
+**Mots-Machines will also propose ONLINE participation.**
 
 ### Contact
 
