@@ -5,11 +5,11 @@
 
 <br>
 
-![Affiche](../Affiche%20journe%CC%81e%20d'e%CC%81tude%2023-2.png)
+Affiche bientôt disponible...
 
 ## Terminologie
 
-[Appel à communication en format PDF](../CFP Mots Machines-2022.pdf)
+PDF Appel à communication bientôt disponible...
 
 **Journée d’étude : 17 mars 2023**
 
@@ -17,7 +17,7 @@
 
 ## Lieu et accès
 
-L'atelier se tiendra à [l'Université de Bretagne Occidentale, Faculté des Arts](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines) :
+L'atelier se tiendra à [l'Université de Bretagne Occidentale, Faculté des Lettres et Sciences humaines](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines) :
 
 **BREST Faculté Victor Segalen**
 
@@ -27,7 +27,7 @@ Salle des thèses B001
 
 Brest Cedex 3, France
 
-**Mots-Machines proposera également une participation ONLINE.**
+**Mots-Machines proposera également une participation EN LIGNE.**
 
 ## Contacts
 
