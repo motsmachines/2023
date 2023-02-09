@@ -9,6 +9,10 @@
 
 ## Registration
 
-### Physical attendance registration:
+### Physical attendance registration: 
+
+Coming soon...
 
 ### ONLINE participation registration:
+
+Coming soon...
