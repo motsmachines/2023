@@ -12,7 +12,7 @@ Poster coming soon...
 
 **Workshop : 17 March 2023**
 
-**List of topics** : Terminology management, AI and terminology, entity Linking, keyword and keyphrase retrieval, technical writing, terminology contextualization and explanation, visualization, lexical simplification, metrics of term difficulty
+**List of topics** : Terminology management, AI and terminology, entity linking, keyword and keyphrase retrieval, technical writing, terminology contextualization and explanation, visualization, lexical simplification, metrics of term difficulty
 
 ## Venue
 The workshop will be held at the [University of Western Brittany, Faculty of Humanities](https://www.univ-brest.fr/UFR-Lettres-et-Sciences-Humaines):
