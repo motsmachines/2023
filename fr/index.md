@@ -5,7 +5,7 @@
 
 <br>
 
-Affiche bientôt disponible...
+![MM-terminologie](../mots-machines.pdf)
 
 ## Terminologie
 
