@@ -6,7 +6,7 @@
 
 <br> 
 
-<embed src="../mots-machines.pdf" type="application/pdf">
+![MM-terminologie](../mots-machines.jpg)
 
 ## Terminology
 
