@@ -6,7 +6,7 @@
 
 <br> 
 
-Poster coming soon...
+![MM-terminologie](../mots-machines.pdf)
 
 ## Terminology
 
