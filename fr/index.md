@@ -5,7 +5,7 @@
 
 <br>
 
-![MM-terminologie](mots-machines.jpg)
+![MM-terminologie](../mots-machines.jpg)
 
 ## Terminologie
 
