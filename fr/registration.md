@@ -6,18 +6,15 @@
 
 <br>
 
-## S'inscrire :
+## L'inscription est obligatoire :
 
-### Inscription participation sur place :
+### Inscription participation sur place - date limite le 13 Mars:
 
-Bientôt disponible...
+[https://forms.gle/hX9oqBuHbYotmp3Z7](https://forms.gle/hX9oqBuHbYotmp3Z7)
+
 
 ### Inscription participation EN LIGNE :
 
-Bientôt disponible...
+[https://forms.gle/gbXHzFTN5R9K2Hct6](https://forms.gle/gbXHzFTN5R9K2Hct6)
 
-Le lien Zoom pour la participation en ligne vous sera envoyé par email après votre inscription via le site EventBrite. Cliquez sur Event details dans l'email de confirmation pour accéder au lien zoom comme indiqué ci-dessous :
-
-![e-mail](../eventbrite-zoom-link.jpg)
-
-![zoom](../eventbrite-zoom-link-2.jpg)
+Le lien Zoom pour la participation en ligne sera accessible après l'inscription
