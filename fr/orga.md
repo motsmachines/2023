@@ -2,7 +2,7 @@
 
 <br>
 
-[Accueil](https://motsmachines.github.io/2023/fr) | [Participations](https://motsmachines.github.io/2023/fr/cfp) | [Programme](https://motsmachines.github.io/2023/fr/program) | [Organisation](https://motsmachines.github.io/2023/fr/orga) | [S'inscrire](https://motsmachines.github.io/2023/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2023/en/orga)
+[Accueil](https://motsmachines.github.io/2023/fr) | [Programme](https://motsmachines.github.io/2023/fr/program) | [Organisation](https://motsmachines.github.io/2023/fr/orga) | [S'inscrire](https://motsmachines.github.io/2023/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2023/en/orga)
 
 <br>
 
@@ -25,7 +25,4 @@
 - Mohamed Saki, HCTI, UBO
 - Emmanuelle Bourge, HCTI, UBO
 
-### Conférenciers invités
-- Hosein Azarbonyad (Elsevier - Amsterdam, senior machine learning scientist - Topic Pages)
-- Florian Boudin (MCF, Université de Nantes / UMR 6004 Laboratoire des Sciences du Numérique de Nantes)
-- Nicholas Journet (MCF, LaBRI, Université de Bordeaux) 
+
