@@ -9,7 +9,6 @@
 
 ## Terminologie
 
-PDF Appel à communication bientôt disponible...
 
 **Journée d’étude : 17 mars 2023**
 
