@@ -1,7 +1,7 @@
 # Mots/Machines #5
 <br>
 
-[Accueil](https://motsmachines.github.io/2023/fr) | [Participations](cfp) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
+[Accueil](https://motsmachines.github.io/2023/fr) | [Programme](program) | [Organisation](orga) | [S'inscrire](registration) | [<img src="EN.png" width="20">](../en)
 
 <br>
 
