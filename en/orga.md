@@ -2,7 +2,7 @@
 
 <br>
 
-[Home]() | [Call for Papers](cfp) | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
+[Home]() | [Program](program) | [Organizers](orga) | [Registration](registration) | [<img src="FR.png" width="20">](../fr/orga)
 
 <br>
 
