@@ -16,7 +16,7 @@
 - 12h00 - 14h00 - *Lunch*
 - 14h00 - 14h40 **Helen McCombie** (BTU, Universtité de Bretagne Occidentale) - 'Difficult' words. Humans and NLP highlight different specialist terms in diverse academic fields and rank quality differently
 - 14h40 - 15h40 **Sara Vecchiato & Lorinne Tiani** (University of Udine, Italy) - "Terminologie et littératie en santé. Création d'un glossaire multilingue destiné à des catégories spécifiques d'utilisateurs" (online)
-- 15h40 - 16h00 **Camille Dreno** (Université de Bretagne Occidentale) - La traduction des patrons anciens de tricot et de couture, les enjeux de l’automatisme et des glossaires.
+- 15h40 - 16h00 **Camille Dreno** (Université de Bretagne Occidentale) - La traduction des patrons anciens de tricot : limite de l'Intelligence Artificielle
 - 16h00 - 16h30 - *Coffee break*
 - 16h30 - 17h00 **Francisco Lopes da Cunha, Sílvia Araújo & Micaela Aguiar** (University of Minho, Portugal) - ChatGPT : pour un jargon scientifique plus accessible grâce à l’IA (online)
 - 17h00 - 17h30 **Francisco Lopes da Cunha & Sílvia Araújo** (University of Minho, Portugal) - Building a dashboard prototype for literary text analysis and visualization (online)
