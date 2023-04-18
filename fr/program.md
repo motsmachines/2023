@@ -9,7 +9,7 @@
 ## Programme :
 
 - 8h45 - 9h15 Reception
-- 9h15 - 9h30 Opening
+- 9h15 - 9h30 Opening and program [Présentation](https://docs.google.com/presentation/d/1Zt6xk4YyVSBRT59ujFV1DBKvXXHGkVbft3eR4u9ATes)
 - 9h30- 10h30  **Florian Boudin** (Université de Nantes) - Génération automatique de mots-clés  
 [Présentation en pdf](https://github.com/motsmachines/2023/files/11261354/2023.03.17-journee-etude-mots-machines.pdf)
 - 10h30 - 11h00 - *Coffee break*
