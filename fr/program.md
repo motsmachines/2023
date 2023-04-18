@@ -10,8 +10,8 @@
 
 - 8h45 - 9h15 Reception
 - 9h15 - 9h30 Opening
-- 9h30- 10h30  **Florian Boudin** (Université de Nantes) - Génération automatique de mots-clés 
-[Présentation](https://github.com/motsmachines/2023/files/11261354/2023.03.17-journee-etude-mots-machines.pdf)
+- 9h30- 10h30  **Florian Boudin** (Université de Nantes) - Génération automatique de mots-clés  
+[Présentation en pdf](https://github.com/motsmachines/2023/files/11261354/2023.03.17-journee-etude-mots-machines.pdf)
 - 10h30 - 11h00 - *Coffee break*
 - 11h00 - 12h00 **Hosein Azarbonyad** (Elsevier, The Netherlands) - Answers instead of Articles: Helping Users Understand Scientific Content
 - 12h00 - 14h00 - *Lunch*
