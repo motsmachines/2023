@@ -18,7 +18,7 @@
 - 12h00 - 14h00 - *Lunch*
 - 14h00 - 14h40 **Helen McCombie** (BTU, Universtité de Bretagne Occidentale) - 'Difficult' words. Humans and NLP highlight different specialist terms in diverse academic fields and rank quality differently  
 [Présentation en pdf](https://github.com/motsmachines/2023/files/11261431/MCCOMBIE.-.MOTS_MACHINES_5_Terminology.pdf)
-- 14h40 - 15h40 **Sara Vecchiato & Lorinne Tiani** (University of Udine, Italy) - "Terminologie et littératie en santé. Création d'un glossaire multilingue destiné à des catégories spécifiques d'utilisateurs" (online)
+- 14h40 - 15h40 **Sara Vecchiato & Lorinne Tiani** (University of Udine, Italy) - "Terminologie et littératie en santé. Création d'un glossaire multilingue destiné à des catégories spécifiques d'utilisateurs" (online) [Présentation en pdf](https://github.com/motsmachines/2023/files/11295733/Vecchiato-.-Tiani-2023-03-17-HFVG.pdf)
 - 15h40 - 16h00 **Camille Dreno** (Université de Bretagne Occidentale) - La traduction des patrons anciens de tricot : limite de l'Intelligence Artificielle
 - 16h00 - 16h30 - *Coffee break*
 - 16h30 - 17h00 **Francisco Lopes da Cunha, Sílvia Araújo & Micaela Aguiar** (University of Minho, Portugal) - ChatGPT : pour un jargon scientifique plus accessible grâce à l’IA (online)  
