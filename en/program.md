@@ -20,7 +20,8 @@
 [Presentation in pdf](https://github.com/motsmachines/2023/files/11261431/MCCOMBIE.-.MOTS_MACHINES_5_Terminology.pdf)
 - 14h40 - 15h40 **Sara Vecchiato & Lorinne Tiani** (University of Udine, Italy) - "Terminologie et littératie en santé. Création d'un glossaire multilingue destiné à des catégories spécifiques d'utilisateurs" (online)  
 [Presentation in pdf](https://github.com/motsmachines/2023/files/11295733/Vecchiato-.-Tiani-2023-03-17-HFVG.pdf)
-- 15h40 - 16h00 **Camille Dreno** (Université de Bretagne Occidentale) - La traduction des patrons anciens de tricot : limite de l'Intelligence Artificielle
+- 15h40 - 16h00 **Camille Dreno** (Université de Bretagne Occidentale) - La traduction des patrons anciens de tricot : limite de l'Intelligence Artificielle  
+[Presentation in pdf](https://github.com/motsmachines/2023/files/11342177/MOTS_MACHINES.pdf)
 - 16h00 - 16h30 - *Coffee break*
 - 16h30 - 17h00 **Francisco Lopes da Cunha, Sílvia Araújo & Micaela Aguiar** (University of Minho, Portugal) - ChatGPT : pour un jargon scientifique plus accessible grâce à l’IA (online)  
 [Presentation](https://docs.google.com/presentation/d/1lSwf3LEuOLsaevgr8OjPlw7AP6ULybN-8mvbgSJdLgU/edit#slide=id.p)
